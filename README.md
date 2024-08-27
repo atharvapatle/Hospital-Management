@@ -1,10 +1,4 @@
-# DBMS-LAB
-## Contributors
-- Grace Sharma
-- Ketan Gupta
-- Vineet Amol Pippal
-- Mradul Agrawal
-- Subhajyoti Halder
+
 ## Instruction
 - **Create virtual environment**
 ```bash
